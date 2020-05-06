@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d124587d6111c67650ed5c10a87c80e4",
+    "revision": "fdaab4a63905e3a19db2bbf0fb974717",
     "url": "/restaurant-finder/index.html"
   },
   {
-    "revision": "bc76e897e16fba28a1e3",
+    "revision": "5bb4447db9eaf05b4191",
     "url": "/restaurant-finder/static/css/main.e7cc56d0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/restaurant-finder/static/js/2.ea29d10e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc76e897e16fba28a1e3",
-    "url": "/restaurant-finder/static/js/main.e456dfec.chunk.js"
+    "revision": "5bb4447db9eaf05b4191",
+    "url": "/restaurant-finder/static/js/main.6b705a07.chunk.js"
   },
   {
     "revision": "9e8b728611b14bf7c301",
