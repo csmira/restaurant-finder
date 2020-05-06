@@ -1,0 +1,53 @@
+ body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+}
+
+/* containers */
+.ui {
+    display: flex;
+    padding: 5px; 
+}
+
+.searchBar{ 
+    display: inline-block;  
+}
+
+/* block, elements, modifiers */
+.input {
+    box-sizing: border-box;
+    border-radius: 3px;
+    border: 1px solid grey;
+    padding: 1em;
+    box-shadow: inset 2px 2px #f2f2f2; 
+    width: 100%;
+}
+
+.input--lg {
+    height: 2.5em;
+}
+
+.input--md {
+    height: 1.2em;
+}
+
+.btn {
+    padding: 0 1em;
+    border: 1px solid grey;
+    background-color: #f2f2f2;
+    border-radius: 3px;
+}
+
+.filters {
+    justify-content: flex-start;
+}
+
+.text--light {
+    font-weight: lighter;
+}
+
+
+

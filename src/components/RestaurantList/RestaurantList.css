@@ -1,0 +1,7 @@
+.restaurantsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(11em, 1fr));
+  width: 70%;
+  margin: 0 auto;
+  grid-column-gap: 1em;
+}
