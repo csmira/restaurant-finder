@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/restaurant-finder/static/css/main.e7cc56d0.chunk.css",
-    "main.js": "/restaurant-finder/static/js/main.6b705a07.chunk.js",
-    "main.js.map": "/restaurant-finder/static/js/main.6b705a07.chunk.js.map",
+    "main.js": "/restaurant-finder/static/js/main.3cb55ba7.chunk.js",
+    "main.js.map": "/restaurant-finder/static/js/main.3cb55ba7.chunk.js.map",
     "runtime-main.js": "/restaurant-finder/static/js/runtime-main.2b3f8976.js",
     "runtime-main.js.map": "/restaurant-finder/static/js/runtime-main.2b3f8976.js.map",
-    "static/js/2.ea29d10e.chunk.js": "/restaurant-finder/static/js/2.ea29d10e.chunk.js",
-    "static/js/2.ea29d10e.chunk.js.map": "/restaurant-finder/static/js/2.ea29d10e.chunk.js.map",
+    "static/js/2.62b33e3e.chunk.js": "/restaurant-finder/static/js/2.62b33e3e.chunk.js",
+    "static/js/2.62b33e3e.chunk.js.map": "/restaurant-finder/static/js/2.62b33e3e.chunk.js.map",
     "index.html": "/restaurant-finder/index.html",
-    "precache-manifest.9c8f8448f78da94d950703f520039c04.js": "/restaurant-finder/precache-manifest.9c8f8448f78da94d950703f520039c04.js",
+    "precache-manifest.17ea2904d09244d945008897515b27ab.js": "/restaurant-finder/precache-manifest.17ea2904d09244d945008897515b27ab.js",
     "service-worker.js": "/restaurant-finder/service-worker.js",
     "static/css/main.e7cc56d0.chunk.css.map": "/restaurant-finder/static/css/main.e7cc56d0.chunk.css.map",
-    "static/js/2.ea29d10e.chunk.js.LICENSE.txt": "/restaurant-finder/static/js/2.ea29d10e.chunk.js.LICENSE.txt"
+    "static/js/2.62b33e3e.chunk.js.LICENSE.txt": "/restaurant-finder/static/js/2.62b33e3e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2b3f8976.js",
-    "static/js/2.ea29d10e.chunk.js",
+    "static/js/2.62b33e3e.chunk.js",
     "static/css/main.e7cc56d0.chunk.css",
-    "static/js/main.6b705a07.chunk.js"
+    "static/js/main.3cb55ba7.chunk.js"
   ]
 }
